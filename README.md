@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, my name is Reggie. 👋
+
+I'm a software engineer with a total 3+ years who specialize in web development, especially ReactJS.
 
 <!--
 **reggiegunawan88/reggiegunawan88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
